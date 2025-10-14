@@ -1,6 +1,2 @@
-En esta primer entrega tratamos un dataset sobre todos los tipos de hongos que hay en el mundo.
-El repositorio consta de tres archivos, uno con el jupyter notebook donde tenemos los graficos realizados, otro con un archivo csv con la base de datos y el tercero
-es un world mostrando los detalles de la base de datos, y una breve descripcion y conclusion del trabajo.
-En esta entrega vemos que los hongos se dividen principalmente en dos clases, comestibles y no comestibles, donde las comparamos segun si posenn anillos o no, segun
-como se agrupan poblacionalmente, o el habitat en el que viven. Tambien veremos los tipos y colores de tallo, los tipos, los colores y la forma del sombrero. 
-Si los hongos tienen olor o no, tambien veremos las agallas, el velo y el color de las esporas.
+In this first installment, we explore a dataset covering all types of mushrooms found around the world. The repository consists of three files: one containing a Jupyter Notebook with the visualizations we created, another with a CSV file holding the database, and a third Word document detailing the database along with a brief description and conclusion of the project.
+In this analysis, we observe that mushrooms are mainly divided into two categories: edible and non-edible. We compare them based on whether they have rings or not, how they group population-wise, and the habitat in which they live. We also examine the types and colors of stems, as well as the types, colors, and shapes of caps. Additionally, we look into whether mushrooms have a noticeable odor, and we analyze their gills, veil, and spore color.
